@@ -7,10 +7,11 @@
           <sparkle:version>2.0.0</sparkle:version>
           <description>Add exciting new feature, Fix critical bug,Improve performance</description>
           <pubDate>Mon, 27 May 2023 00:00:00 GMT</pubDate>
-          <enclosure url="https://play.google.com/store/apps/details?id=com.mobile.legends" sparkle:version="2.2.0" sparkle:os="android" />
-          <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+          <enclosure url="https://play.google.com/store/apps/details?id=com.mobile.legends" sparkle:version="2.0.0" sparkle:os="android" />
+          <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
           <sparkle:releaseNotesLink>https://www.example.com/release-notes</sparkle:releaseNotesLink>
           <sparkle:forceUpdate>true</sparkle:forceUpdate>
+          <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion>
         </item>
     </channel>
 </rss>

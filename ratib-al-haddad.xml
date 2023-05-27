@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Ratib Al Haddad - Appcast</title>
         <item>
           <title>Version 1.2.0</title>
           <sparkle:version>1.2.0</sparkle:version>
@@ -9,10 +9,15 @@
           <pubDate>Mon, 27 May 2023 00:00:00 GMT</pubDate>
           <enclosure url="https://play.google.com/store/apps/details?id=com.mobile.legends" sparkle:version="1.2.0" sparkle:os="android" />
           <sparkle:minimumSystemVersion>1.2.0</sparkle:minimumSystemVersion>
-          <sparkle:releaseNotesLink>https://www.example.com/release-notes</sparkle:releaseNotesLink>
-          <sparkle:forceUpdate>true</sparkle:forceUpdate>
-          <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion>
-          <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+<!--           <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>  -->
+        </item>
+        <item>
+          <title>Version 2.2.0</title>
+          <sparkle:version>2.2.0</sparkle:version>
+          <description>Add exciting new feature</description>
+          <pubDate>Mon, 27 May 2023 00:00:00 GMT</pubDate>
+          <enclosure url="https://play.google.com/store/apps/details?id=com.mobile.legends" sparkle:version="2.2.0" sparkle:os="android" />
+          <sparkle:minimumSystemVersion>1.2.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>

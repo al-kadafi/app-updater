@@ -5,18 +5,12 @@
         <item>
           <title>Version 2.0.0</title>
           <sparkle:version>2.0.0</sparkle:version>
-          <description><![CDATA[
-            <h3>What's New:</h3>
-            <ul>
-              <li>Add exciting new feature</li>
-              <li>Fix critical bug</li>
-              <li>Improve performance</li>
-            </ul>
-          ]]></description>
+          <description>Add exciting new feature, Fix critical bug,Improve performance</description>
           <pubDate>Mon, 27 May 2023 00:00:00 GMT</pubDate>
           <enclosure url="https://play.google.com/store/apps/details?id=com.mobile.legends" sparkle:version="2.2.0" sparkle:os="android" />
           <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
           <sparkle:releaseNotesLink>https://www.example.com/release-notes</sparkle:releaseNotesLink>
+          <sparkle:forceUpdate>true</sparkle:forceUpdate>
         </item>
     </channel>
 </rss>

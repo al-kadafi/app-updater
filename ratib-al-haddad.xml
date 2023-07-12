@@ -12,5 +12,10 @@
           <sparkle:version>2.0.0</sparkle:version>
           <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
         </item>
+        <item>
+          <title>Version 2.0.1</title>
+          <sparkle:version>2.0.1</sparkle:version>
+          <sparkle:minimumSystemVersion>2.0.1</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>

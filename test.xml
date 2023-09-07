@@ -19,8 +19,10 @@
         </item>
         <item>
           <title>Version 2.0.3</title>
-          <description>- Menambahkan doa</description>
-          <description>- Fix bug</description>
+          <description>
+              - Menambahkan doa
+              - Bug fix
+          </description>
           <sparkle:version>2.0.3</sparkle:version>
           <sparkle:minimumSystemVersion>2.0.1</sparkle:minimumSystemVersion>
           <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 

@@ -5,6 +5,7 @@
         <item>
           <title>Version 1.0.0</title>
           <sparkle:version>1.0.0</sparkle:version>
+          <enclosure url="https://play.google.com/store/apps/details?id=com.app.yasin.tahlil" sparkle:version="2.0.3" sparkle:os="android" />
           <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
         </item>
     </channel>

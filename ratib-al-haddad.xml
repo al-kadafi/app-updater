@@ -27,6 +27,7 @@
           <title>Version 2.0.3</title>
           <description>- Menambahkan swipe screen</description>
           <sparkle:version>2.0.3</sparkle:version>
+          <enclosure url="https://play.google.com/store/apps/details?id=com.ratib.al.haddad" sparkle:version="2.0.3" sparkle:os="android" />
           <sparkle:minimumSystemVersion>2.0.1</sparkle:minimumSystemVersion>
         </item>
     </channel>

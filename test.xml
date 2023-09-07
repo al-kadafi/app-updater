@@ -18,10 +18,10 @@
           <sparkle:minimumSystemVersion>2.0.1</sparkle:minimumSystemVersion>
         </item>
         <item>
-          <title>Version 2.0.2</title>
+          <title>Version 2.0.3</title>
           <description>- Menambahkan doa</description>
-          <sparkle:version>2.0.2</sparkle:version>
-          <sparkle:minimumSystemVersion>2.0.1</sparkle:minimumSystemVersion>
+          <sparkle:version>2.0.3</sparkle:version>
+          <sparkle:minimumSystemVersion>2.0.3</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>

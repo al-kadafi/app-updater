@@ -4,8 +4,8 @@
         <title>Al-Mulk & Al-Waqiah</title>
         <item>
           <title>Version 1.0.0</title>
-          <sparkle:version>1.0.0</sparkle:version>
-          <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+          <sparkle:version>1.0.1</sparkle:version>
+          <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
